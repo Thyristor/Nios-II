@@ -1,0 +1,8 @@
+module nios_leds (
+	input  wire        clk,                   // clk_clk_in.clk
+	input  wire        reset_n,               // clk_clk_in_reset.reset_n
+	output wire [24:0] R,  							// pio_led_external_connection.export
+	output wire [24:0] G,  							// pio_led_external_connection.export
+	output wire [24:0] B  							// pio_led_external_connection.export
+);	
+endmodule // End of module

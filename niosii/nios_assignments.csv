@@ -1,0 +1,98 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# File: C:\Users\Windows\Dropbox\Proyecto_Javieres\FPGA_proyectos\Verilog\niosii\nios_assignments.csv
+# Generated on: Sat Sep 23 21:09:37 2017
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Standard,Reserved,Current Strength,Weak Pull-Up Resistor
+B[24],Output,PIN_4,,,,
+B[23],Output,PIN_132,,,,
+B[22],Output,PIN_120,,,,
+B[21],Output,PIN_113,,,,
+B[20],Output,PIN_93,,,,
+B[19],Output,PIN_24,,,,
+B[18],Output,PIN_137,,,,
+B[17],Output,PIN_119,,,,
+B[16],Output,PIN_101,,,,
+B[15],Output,PIN_87,,,,
+B[14],Output,PIN_30,,,,
+B[13],Output,PIN_139,,,,
+B[12],Output,PIN_129,,,,
+B[11],Output,PIN_100,,,,
+B[10],Output,PIN_79,,,,
+B[9],Output,PIN_32,,,,
+B[8],Output,PIN_47,,,,
+B[7],Output,PIN_55,,,,
+B[6],Output,PIN_65,,,,
+B[5],Output,PIN_75,,,,
+B[4],Output,PIN_40,,,,
+B[3],Output,PIN_45,,,,
+B[2],Output,PIN_58,,,,
+B[1],Output,PIN_64,,,,
+B[0],Output,PIN_72,,,,
+G[24],Output,PIN_3,,,,
+G[23],Output,PIN_133,,,,
+G[22],Output,PIN_121,,,,
+G[21],Output,PIN_115,,,,
+G[20],Output,PIN_94,,,,
+G[19],Output,PIN_25,,,,
+G[18],Output,PIN_134,,,,
+G[17],Output,PIN_114,,,,
+G[16],Output,PIN_103,,,,
+G[15],Output,PIN_81,,,,
+G[14],Output,PIN_26,,,,
+G[13],Output,PIN_141,,,,
+G[12],Output,PIN_122,,,,
+G[11],Output,PIN_96,,,,
+G[10],Output,PIN_80,,,,
+G[9],Output,PIN_28,,,,
+G[8],Output,PIN_48,,,,
+G[7],Output,PIN_51,,,,
+G[6],Output,PIN_67,,,,
+G[5],Output,PIN_74,,,,
+G[4],Output,PIN_41,,,,
+G[3],Output,PIN_42,,,,
+G[2],Output,PIN_53,,,,
+G[1],Output,PIN_59,,,,
+G[0],Output,PIN_69,,,,
+R[24],Output,PIN_8,,,,
+R[23],Output,PIN_135,,,,
+R[22],Output,PIN_125,,,,
+R[21],Output,PIN_112,,,,
+R[20],Output,PIN_97,,,,
+R[19],Output,PIN_27,,,,
+R[18],Output,PIN_136,,,,
+R[17],Output,PIN_118,,,,
+R[16],Output,PIN_104,,,,
+R[15],Output,PIN_92,,,,
+R[14],Output,PIN_142,,,,
+R[13],Output,PIN_143,,,,
+R[12],Output,PIN_126,,,,
+R[11],Output,PIN_99,,,,
+R[10],Output,PIN_86,,,,
+R[9],Output,PIN_31,,,,
+R[8],Output,PIN_52,,,,
+R[7],Output,PIN_60,,,,
+R[6],Output,PIN_70,,,,
+R[5],Output,PIN_76,,,,
+R[4],Output,PIN_43,,,,
+R[3],Output,PIN_44,,,,
+R[2],Output,PIN_57,,,,
+R[1],Output,PIN_63,,,,
+R[0],Output,PIN_71,,,,
+clk,Input,PIN_17,,,,
+reset_n,Input,PIN_144,,,,
